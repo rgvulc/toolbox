@@ -1,0 +1,7 @@
+libgl1-mesa-dev
+libxi-dev
+libxinerama-dev
+libxrandr-dev
+libxcursor-dev
+libx11-dev
+love
