@@ -1,5 +1,4 @@
 git
 curl
 vim
-gcc
-make
+build-essential
