@@ -5,3 +5,4 @@ libxrandr-dev
 libxcursor-dev
 libx11-dev
 love
+lua5.1
