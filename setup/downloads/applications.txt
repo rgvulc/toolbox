@@ -6,3 +6,7 @@ https://code.visualstudio.com
 # Gamedev
 
 https://godotengine.org
+
+# 3D Modelling
+
+https://www.blender.org
