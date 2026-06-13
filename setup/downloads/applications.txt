@@ -2,6 +2,13 @@
 
 https://code.visualstudio.com
 
+# OS
+
+https://ubuntu.com/download/desktop
+# Popular Releases
+https://releases.ubuntu.com
+# ARM/Other Less Popular Releases
+https://cdimage.ubuntu.com/releases/
 
 # Gamedev
 
