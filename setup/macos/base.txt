@@ -1,5 +1,8 @@
 # Build Tools
 
-# CMake (From https://cmake.org/download/)
-https://github.com/Kitware/CMake/releases/download/v4.3.3/cmake-4.3.3-macos-universal.dmg
-https://github.com/Kitware/CMake/releases/download/v4.3.3/cmake-4.3.3-SHA-256.txt
+# brew (from https://brew.sh)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# CMake
+brew install cmake
+brew install ninja
