@@ -1,0 +1,4 @@
+# Build Tools
+
+# From https://cmake.org/download/
+https://github.com/Kitware/CMake/releases/download/v4.3.3/cmake-4.3.3-macos-universal.dmg
