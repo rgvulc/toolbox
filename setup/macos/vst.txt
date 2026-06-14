@@ -1,0 +1,2 @@
+# JUCE (from https://juce.com/get-juce/)
+git clone https://github.com/juce-framework/JUCE.git
