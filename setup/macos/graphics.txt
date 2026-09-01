@@ -5,3 +5,10 @@ https://github.com/raysan5/raylib/releases
 https://github.com/raysan5/raylib/releases/download/6.0/raylib-6.0_macos.tar.gz
 https://github.com/raysan5/raylib/archive/refs/tags/6.0.zip
 https://github.com/raysan5/raylib/archive/refs/tags/6.0.tar.gz
+
+
+From 
+
+https://github.com/love2d/love/releases
+
+https://github.com/love2d/love/releases/download/11.5/love-11.5-macos.zip
