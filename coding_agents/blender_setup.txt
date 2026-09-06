@@ -1,5 +1,8 @@
 https://www.blender.org/lab/mcp-server/
 
+Define AGENTS_DIR in your ~/.zshrc file
+
 1. Install Blender
 2. Install add-on from above page
-3. git clone  https://projects.blender.org/lab/blender_mcp.git
+3. git clone https://projects.blender.org/lab/blender_mcp.git (run this in $AGENTS_DIR)
+4. uv --directory $AGENTS_DIR/blender_mcp/mcp run --with 'mcp[cli]<2' blender-mcp --transport http --port 9191
