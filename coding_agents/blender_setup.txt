@@ -1,0 +1,5 @@
+https://www.blender.org/lab/mcp-server/
+
+1. Install Blender
+2. Install add-on from above page
+3. git clone  https://projects.blender.org/lab/blender_mcp.git
