@@ -1,6 +1,7 @@
 # General 
 
 https://code.visualstudio.com
+https://docs.docker.com/desktop/release-notes/
 
 # OS
 
