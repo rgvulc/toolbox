@@ -1,12 +1,12 @@
 # Build Tools
 
 # brew (from https://brew.sh)
-# first create /opt/homebrew with admin user, and run 
+# first create /opt/homebrew with admin user, and run
 
 sudo chown $USER:staff /opt/homebrew
 sudo chmod 755 /opt/homebrew
 
-# then run 
+# where ($USER) is the non-admin user you want to own and manage homebrew. Then switch to that user account and run 
 
 export HOMEBREW_NO_SUDO=1
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
