@@ -1,7 +1,19 @@
 # Build Tools
 
 # brew (from https://brew.sh)
+# first create /opt/homebrew with admin user, and run 
+
+sudo chown $USER:staff /opt/homebrew
+sudo chmod 755 /opt/homebrew
+
+# then run 
+
+export HOMEBREW_NO_SUDO=1
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# after installing, add to .zprofile as it says, and also run 
+
+brew analytics off
 
 # CMake
 brew install cmake
