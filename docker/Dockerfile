@@ -47,7 +47,8 @@ ENV OLLAMA_HOST=0.0.0.0:11434
 EXPOSE 11434
 ENTRYPOINT ["ollama"]
 CMD ["serve"]
-
+# docker run -d --rm --name ollama -p 11434:11434 -v $HOME/.ollama:/home/rgvulc/.ollama ollama
+# docker exec -it ollama ollama run gemma3:270m
 
 FROM base AS pandoc
 USER root
