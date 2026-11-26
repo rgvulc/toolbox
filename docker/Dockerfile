@@ -69,3 +69,4 @@ USER rgvulc
 WORKDIR /data
 ENTRYPOINT ["pandoc"]
 CMD ["--help"]
+# docker run --rm -v "$PWD":/data pandoc resume.md -o resume.pdf
